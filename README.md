@@ -1,6 +1,6 @@
 # go-redimer
 
-Black magic to get slice or array dimmensioned with specified dimensions.
+Black magic to get slice or array dimensioned with specified dimensions.
 
 ## Usage
 
